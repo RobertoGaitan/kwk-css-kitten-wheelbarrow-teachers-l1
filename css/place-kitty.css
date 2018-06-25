@@ -43,7 +43,7 @@
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
 /*__write_selector_here__*/ 
-E[alt="Kitty 5"]
+E[img="Kitty-5.png"]
 {
   position: absolute;
   z-index: 3;
